@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @TheBadshah24
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗧𝗛𝗜𝗦+𝗜𝗦+Badshah + 24 ; Welcome to my World !)</p>
+<p align="center">
 
 <!---
-TheBadshah24/TheBadshah24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+TheBadshah24/TheBadshah24 is a ✨ special ✨ 
 --->
